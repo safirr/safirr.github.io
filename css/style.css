@@ -71,6 +71,10 @@ a:active, a:visited, a:focus {
 	color: #fff;
 	border-color: #fff;
 }
+.parallax-window {
+	min-height: 400px;
+	background: transparent;
+}
 /*Секция с портфолио*/
 .portfolio {
 	padding: 10rem 0px;
